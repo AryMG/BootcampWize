@@ -1,0 +1,2 @@
+# BootcampWize
+QA Automation challenge
